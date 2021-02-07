@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Montserrat&display=swap');
+body{
+	font-family: 'Montserrat', sans-serif;
+	margin:0;
+}
+
+body.bg-image {
+    width: 100%;
+    background-image: url(https://www.windowtonews.com/wtn-admin/upload/63425_Birth-photography_Framing_labour_room_moments_for_eternity.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+
+}
+
+.btn{
+	background: #2ddf5c;
+	border:1px solid #2ddf5c;
+	color:black;
+	font-weight: bold;
+
+}
+
+
+
+.main-header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #2ddf5c;
+  padding: 0.5rem 1rem;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.main-header > div {
+  display: flex;
+  color: #0e4f1f;
+  font-weight: bold;
+}
+
+.main-header > div a:hover{
+	
+	color:white;
+}
+
+.main-header__brand {
+  color: #0e4f1f;
+  text-decoration: none;
+  font-weight: bold;
+  height: 2.5rem;
+  /* width: 20px; */
+  display: inline-block;
+  vertical-align: middle;
+}
+.main-nav__items{
+	display: flex;
+	list-style: none;
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+
+.main-nav__item {
+  display: flex
+  justify-content: space-between;
+  padding-right: 40px;
+}
+
+.main-nav__item a
+ {
+  text-decoration: none;
+  color: #0e4f1f;
+  font-weight: bold;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.main-nav__item a:hover,
+.main-nav__item a:active {
+  color: white;
+  border-bottom: 5px solid white;
+}
+
+
+.main-footer {
+  background: black;
+  padding: 2rem;
+  margin-top: 3rem;
+  color:white
+  
+}
+
+.main-footer>div{
+	 text-align: center;
+}
+

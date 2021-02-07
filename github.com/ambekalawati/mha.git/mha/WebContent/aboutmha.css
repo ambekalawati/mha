@@ -1,0 +1,75 @@
+.card-title{
+	color:black;
+	margin-left:150px;
+	font-size:50px;
+font-family: "Times New Roman", Times, serif;
+	
+}
+
+
+.body{
+	color:black;
+	margin-top:80px;
+	font-size:20px;
+
+}
+.card-body{
+	background: url(images/welcome.jpg);
+	background-image:absolute;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.card1{
+	margin-top:40px;
+}
+.c-title{
+	margin-bottom:50px;
+	margin-top:40px;
+	margin-left:300px;
+	color:black;
+	font-size:30px;
+	font-family: "Times New Roman", Times, serif;
+	line-height: 10px;
+	
+}
+
+.main-container{
+	 display: grid;
+	grid-template-columns:1fr 1fr 1fr;
+	grid-gap:5px;
+	margin-top:20px;
+	margin-bottom:300px;
+	margin-left:90px;
+	
+}
+.top-title{
+	margin-top:30px;
+}
+.text{
+	color:white;
+	text-align:justify;
+}
+.title{
+	color:white;
+	font-size:30px;
+}
+.3rd-card-body{
+	background-color:red;
+}
+.card-4th{
+	color:black;
+	margin-left:400px;
+	margin-top:40px;
+	margin-bottom:50px;
+	font-size:30px;
+}
+.card-5th{
+	font-size:100%;
+	background:url(images/balak.jpg);
+	margin-bottom:100px;
+	
+	
+}
+
+
+

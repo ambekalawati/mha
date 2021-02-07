@@ -1,0 +1,20 @@
+#more {
+	display: none;
+}
+
+button {
+	background-color: #2ddf5c;
+	border: none;
+	outline: none;
+	color: black;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#more1 {
+	display: none;
+}
+
+#more2 {
+	display: none;
+}

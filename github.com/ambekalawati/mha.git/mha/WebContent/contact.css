@@ -1,0 +1,49 @@
+.centerdiv {
+	padding: 20px;
+	font-family: width : 100px;
+	text-align: center;
+	font-size: 80px;
+	margin-top: 200px;
+	margin-bottom: 300px;
+	text-align: top;
+	text-decoration: none;
+}
+
+
+
+.fa-facebook {
+	background: #3B5998;
+	color: white;
+	margin-right: 100px;
+}
+
+.fa-twitter {
+	background: #55ACEE;
+	color: white;
+	margin-right: 100px;
+}
+
+.fa-instagram {
+	background: #FF664C;
+	color: white;
+	margin-right: 100px;
+}
+
+.fa-snapchat {
+	background: #fffc00;
+  color: white;
+  margin-right: 100px;
+}
+.fa-linkedin{
+	background: #55ACEE;
+	color:white;
+	margin-right: 100px;
+}
+
+.about-section {
+	padding: 50px;
+	margin-top: 50px;
+	text-align: center;
+	background-color: #474e5d;
+	color: white;
+}
